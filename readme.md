@@ -17,4 +17,6 @@
 | 2023.07.11(화) | [2621_Sleep](https://leetcode.com/problems/sleep/description/) | [내 코드]() / [내 풀이]() | 프로미스 | 15분 |
 | 2023.07.12(수) | [2626_ArrayReducerTransformation](https://leetcode.com/problems/array-reduce-transformation/) | [내 코드]() / [내 풀이]() | reduce | 15분 |
 | 2023.07.17(월) | [2629_FunctionComposition](https://leetcode.com/problems/function-composition/description/) | [내 코드]() / [내 풀이]() | 합수합성, reduceRight | 20분 |
+| 2023.07.18(화) | [2634_FilterElementsFromArray](https://leetcode.com/problems/filter-elements-from-array/description/) | [내 코드]() / [내 풀이]() | 합수합성, reduceRight | 10분 |
+
 
