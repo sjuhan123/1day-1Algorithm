@@ -20,5 +20,6 @@
 | 2023.07.18(화) | [2634_FilterElementsFromArray](https://leetcode.com/problems/filter-elements-from-array/description/) | [내 코드]() / [내 풀이]() | 합수합성, reduceRight | 10분 |
 | 2023.07.19(수) | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | [내 코드]() / [내 풀이]() | DP, | 40분 |
 | 2023.07.25(화) | [2727. Is Object Empty](https://leetcode.com/problems/is-object-empty/description/) | [내 코드]() / [내 풀이]() | Object | 10분 |
+| 2023.07.31(월) | [2665. Counter2](https://leetcode.com/problems/counter-ii/) | [내 코드]() / [내 풀이]() | 클로저 | 20분 |
 
 
