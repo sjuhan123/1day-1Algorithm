@@ -27,3 +27,16 @@
 | 2023.08.15(화) | [2715. TimeoutCancellation](https://leetcode.com/problems/timeout-cancellation/)                                   | [내 코드]() / [내 풀이]()                                                                                                                                                                                                                                                                                                                                   | 클로저 ,flag 변수, setTimeout     | 20분     |
 | 2023.08.16(수) | [2619. ArrayPrototypeLast](https://leetcode.com/problems/array-prototype-last/description/)                        | [내 코드]() / [내 풀이]()                                                                                                                                                                                                                                                                                                                                   | 배열, prototype, this             | 5분      |
 | 2023.08.18(금) | [2666. AllowOneFunctionCall](https://leetcode.com/problems/allow-one-function-call/description/)                   | [내 코드]() / [내 풀이]()                                                                                                                                                                                                                                                                                                                                   | 클로저, flag 변수, rest arguments | 20분     |
+
+---
+
+> 2024.09.18(수) 재시작
+
+## 규칙
+
+- 일주일 최소 4문제 풀기
+- 과연 이번엔 얼마나 지속할 수 있을까?
+
+| 날짜            | 문제                                                  | 풀이                             | 핵심개념 | 소요시간 |
+|---------------|-----------------------------------------------------|--------------------------------|------|------|
+| 2024.09.18(수) | [11720_숫자의합](https://www.acmicpc.net/problem/11720) | [코드](./baekjoon/11720_숫자의합.js) | 숫자   | 3분   |
